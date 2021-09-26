@@ -67,7 +67,7 @@
         <div id="stats">
             <h2></h2>
             <a href="https://github.com/JaderRA/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA&layout=compact&theme=midnight-purple">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA&layout=compact" >
             </a>
         </div>
     </body>
