@@ -1,16 +1,20 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Jader Albrez</h1>
+    <div id="introduction">
+      <p>Hello, welcome to my GitHub!</p>
+      <p>My name is Jader, I'm passionate about music, technology, information security and games. Right now I'm starting my career in the software development world, already doing somethings and with a lot of cool ideas that I hope you guys will see in time. Currently looking for a team where I can put my skills to good use, learning things and being part of something greater. Code on!</p></div>
+    <div id="contact"><h2>Contacts</h2>
+      <a href="https://www.linkedin.com/in/jaderraniere/?locale=en_US" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+      <a href="https://www.instagram.com/jaderalbrez/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <div id="languages"><h2>Languages and technologies that I dealt with at some point</h2>
+      
 
-<!--
-**JaderRA/JaderRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+      
+      
