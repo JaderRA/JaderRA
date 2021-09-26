@@ -64,9 +64,17 @@
                 <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
             </a>
         </div>
+        <div id="stats">
+            <h2></h2>
+            <a href="https://github.com/JaderRA/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA&layout=compact&theme=midnight-purple">
+            </a>
+        </div>
     </body>
 </html>
+
   
+
 
   
       
