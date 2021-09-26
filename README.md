@@ -19,7 +19,7 @@
             <a href="mailto:jader.ralbrez@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
         </div>        
-        <div id="languages"><h2>Languages and technologies that I dealt with</h2>
+        <div id="languages"><h2>Languages and tools</h2>
             <a target="_blank" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
             </a>
