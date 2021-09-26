@@ -65,9 +65,7 @@
             </a>
         </div>
         <div id="stats">
-            <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA">
-            </a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaderRA&layout=compact">
         </div>
     </body>
 </html>
