@@ -59,6 +59,11 @@
       <a target="_blank" href="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgisk&logoColor=white">
         <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgisk&logoColor=white">
       </a>
+    </div>
+    
+    <div id="stats"><h2>Stats</h2>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username={JaderRA}">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={JaderRA}">
     </div>  
 
   </body>
