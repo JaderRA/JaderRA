@@ -7,7 +7,7 @@
         <h1>Jader Raniere Albrez</h1>        
         <div id="intro">
             <p>Hello, welcome to my GitHub!</p>
-            <p>My name is Jader, I'm a system analysis and development student who is passionate about music, technology, information security and games. Right now I'm starting my career in the software development world, already doing somethings and with a lot of cool ideas that I hope you guys will see in time. Currently looking for a team where I can put my skills to good use, learning things, being part of something greater and growing up with the IT community. Code on!</p>
+            <p>My name is Jader, I'm a system analysis and development student who is passionate about music, technology, information security and games. Right now I'm starting my career in the software development world, already doing somethings and with a lot of cool ideas that I hope you guys will see in time. Code on!</p>
         </div>        
         <div id="contact"><h2>Contacts</h2>
             <a target="_blank" href="https://www.linkedin.com/in/jaderraniere/?locale=en_US">
